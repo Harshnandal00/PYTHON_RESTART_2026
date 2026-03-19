@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" width="600">
-</p>
-
 # 🐍 Python Re-Learning Journey
-
 
 <p align="center">
   <b>Restarting from zero. Building strong fundamentals. Learning in public.</b>
