@@ -62,3 +62,26 @@
 - [x] Completed practice
 
 ---
+
+## 📅 Day 3(Mar 25, 2026)
+
+### ✅ What I Learned
+- Taking input from the User.
+- Default data type of userInput is always String.
+- Learned round(x , y) function , used to limit the no_of_digits after decimal. 
+- example = round(float_variable , no_of_decimal_places_we_want)
+
+### 🧠 Problems Solved
+- Mad_Libs
+- area_calculator
+
+### ⚠️ Difficulties Faced
+- No difficulty was faced in this exercise
+
+### ⭐ Important Points
+- we can type cast input , in that very line.
+
+### 📊 Practice Status
+- [x] Completed practice
+
+---
