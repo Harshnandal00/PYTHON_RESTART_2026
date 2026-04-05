@@ -85,3 +85,25 @@
 - [x] Completed practice
 
 ---
+
+## 📅 Day 4(April 5, 2026)
+
+### ✅ What I Learned
+-Arithmatic_operators
+-math_functions
+
+### 🧠 Problems Solved
+-Calculated_the circumference of a circle.
+-Calculated_the area of the circle.
+-Calculated_the Hypotenuse of a right angle triangle.
+
+### ⚠️ Difficulties Faced
+-It is a bit difficult to remember every math func & it's use.
+
+### ⭐ Important Points
+- nothing worth mentioning, Just learn the math functions and
+- when we need something like that, then use that function.
+
+### 📊 Practice Status
+-[x] Completed Practice
+---
